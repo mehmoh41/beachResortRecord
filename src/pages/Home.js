@@ -4,9 +4,6 @@ import Banner from "../components/Banner";
 import {Link} from "react-router-dom";
 import Services from "../components/Services";
 import FeaturedRooms from "../components/FeaturedRoom";
-import {RoomContext} from "../context";
-import Button from '../components/styledHero'
-
 const Home = () => {
 
     return (
